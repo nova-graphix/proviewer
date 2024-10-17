@@ -5,7 +5,7 @@
 ProViewer
 </h1>
 
-![](https://img.shields.io/badge/npm-1.0.5-yellow)
+![](https://img.shields.io/badge/npm-1.0.6-yellow)
 ![](https://img.shields.io/badge/minzipped_size-18.8KB-blue)
 ![](https://img.shields.io/badge/three.js-r169-green)
 ![](https://img.shields.io/badge/license-mit-red)
